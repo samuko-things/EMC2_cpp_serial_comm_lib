@@ -1,2 +1,2 @@
-# do not add build folder
-/build
+# Ignore __pycache__ folder
+*build
